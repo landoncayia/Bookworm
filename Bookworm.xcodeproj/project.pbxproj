@@ -17,6 +17,7 @@
 		C77A6A6F289C17B60095849C /* Bookworm.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = C77A6A6D289C17B60095849C /* Bookworm.xcdatamodeld */; };
 		C7F96DA7289D63860077566E /* AddBookView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7F96DA6289D63860077566E /* AddBookView.swift */; };
 		C7F96DA9289D6C920077566E /* RatingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7F96DA8289D6C920077566E /* RatingView.swift */; };
+		C7F96DAB289D70770077566E /* EmojiRatingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7F96DAA289D70770077566E /* EmojiRatingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		C77A6A6E289C17B60095849C /* Bookworm.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Bookworm.xcdatamodel; sourceTree = "<group>"; };
 		C7F96DA6289D63860077566E /* AddBookView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddBookView.swift; sourceTree = "<group>"; };
 		C7F96DA8289D6C920077566E /* RatingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatingView.swift; sourceTree = "<group>"; };
+		C7F96DAA289D70770077566E /* EmojiRatingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiRatingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +72,7 @@
 				C7F96DA8289D6C920077566E /* RatingView.swift */,
 				C77A6A53289C05980095849C /* BookwormApp.swift */,
 				C77A6A55289C05980095849C /* ContentView.swift */,
+				C7F96DAA289D70770077566E /* EmojiRatingView.swift */,
 				C77A6A68289C138F0095849C /* DataController.swift */,
 				C77A6A57289C059A0095849C /* Assets.xcassets */,
 				C77A6A59289C059A0095849C /* Preview Content */,
@@ -159,6 +162,7 @@
 			files = (
 				C77A6A56289C05980095849C /* ContentView.swift in Sources */,
 				C77A6A6F289C17B60095849C /* Bookworm.xcdatamodeld in Sources */,
+				C7F96DAB289D70770077566E /* EmojiRatingView.swift in Sources */,
 				C77A6A69289C138F0095849C /* DataController.swift in Sources */,
 				C7F96DA9289D6C920077566E /* RatingView.swift in Sources */,
 				C77A6A54289C05980095849C /* BookwormApp.swift in Sources */,
