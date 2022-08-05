@@ -15,6 +15,7 @@
 		C77A6A64289C05ED0095849C /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = C77A6A63289C05ED0095849C /* .gitignore */; };
 		C77A6A69289C138F0095849C /* DataController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C77A6A68289C138F0095849C /* DataController.swift */; };
 		C77A6A6F289C17B60095849C /* Bookworm.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = C77A6A6D289C17B60095849C /* Bookworm.xcdatamodeld */; };
+		C7F96DA7289D63860077566E /* AddBookView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7F96DA6289D63860077566E /* AddBookView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		C77A6A63289C05ED0095849C /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = SOURCE_ROOT; };
 		C77A6A68289C138F0095849C /* DataController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataController.swift; sourceTree = "<group>"; };
 		C77A6A6E289C17B60095849C /* Bookworm.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Bookworm.xcdatamodel; sourceTree = "<group>"; };
+		C7F96DA6289D63860077566E /* AddBookView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddBookView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 			isa = PBXGroup;
 			children = (
 				C77A6A6D289C17B60095849C /* Bookworm.xcdatamodeld */,
+				C7F96DA6289D63860077566E /* AddBookView.swift */,
 				C77A6A53289C05980095849C /* BookwormApp.swift */,
 				C77A6A55289C05980095849C /* ContentView.swift */,
 				C77A6A68289C138F0095849C /* DataController.swift */,
@@ -155,6 +158,7 @@
 				C77A6A6F289C17B60095849C /* Bookworm.xcdatamodeld in Sources */,
 				C77A6A69289C138F0095849C /* DataController.swift in Sources */,
 				C77A6A54289C05980095849C /* BookwormApp.swift in Sources */,
+				C7F96DA7289D63860077566E /* AddBookView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
