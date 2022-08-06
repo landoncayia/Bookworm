@@ -2,9 +2,16 @@
 
 A basic iOS app used to track the books a person has read along with their thoughts of them.
 
-## Installing / Getting started 
+## Installing / Getting started
+
+This app is not on the App Store, so you will not be able to find it there. If you wish to run it, you will need to clone this repository on a Mac with Xcode and the iPhone Simulator installed. Please ensure that your Simulator runs iOS 15 or later.
 
 ## Features
+
+* Keep track of books you have read
+* Stores title, author, genre, review, and star rating
+* Tap on a book to see its details
+* Delete books by swiping, using edit button, or trash can on detail view
 
 ## Credit
 
@@ -20,11 +27,9 @@ The idea for this project came from Paul Hudson's *100 Days of SwiftUI*. I may e
 
 ## Screenshots
 
-Screenshots will go here when they are ready.
-
-<!--<p float="left">-->
-<!--    <img src="screenshots/bookworm1.png" alt="Bookworm Screenshot 1" width="341">-->
-<!--    <img src="screenshots/bookworm2.png" alt="Bookworm Screenshot 2" width="341">-->
-<!--    <img src="screenshots/bookworm3.png" alt="Bookworm Screenshot 3" width="341">-->
-<!--    <img src="screenshots/bookworm4.png" alt="Bookworm Screenshot 4" width="341">-->
-<!--</p>-->
+<p float="left">
+    <img src="screenshots/bookworm1.png" alt="Bookworm Screenshot 1" width="341">
+    <img src="screenshots/bookworm2.png" alt="Bookworm Screenshot 2" width="341">
+    <img src="screenshots/bookworm3.png" alt="Bookworm Screenshot 3" width="341">
+    <img src="screenshots/bookworm4.png" alt="Bookworm Screenshot 4" width="341">
+</p>
