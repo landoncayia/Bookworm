@@ -69,15 +69,15 @@
 		C77A6A52289C05980095849C /* Bookworm */ = {
 			isa = PBXGroup;
 			children = (
-				C77A6A6D289C17B60095849C /* Bookworm.xcdatamodeld */,
-				C7F96DA6289D63860077566E /* AddBookView.swift */,
-				C7F96DA8289D6C920077566E /* RatingView.swift */,
 				C77A6A53289C05980095849C /* BookwormApp.swift */,
 				C77A6A55289C05980095849C /* ContentView.swift */,
+				C7F96DA6289D63860077566E /* AddBookView.swift */,
+				C75C0359289EC73100CA9181 /* DetailView.swift */,
+				C7F96DA8289D6C920077566E /* RatingView.swift */,
 				C7F96DAA289D70770077566E /* EmojiRatingView.swift */,
 				C77A6A68289C138F0095849C /* DataController.swift */,
 				C77A6A57289C059A0095849C /* Assets.xcassets */,
-				C75C0359289EC73100CA9181 /* DetailView.swift */,
+				C77A6A6D289C17B60095849C /* Bookworm.xcdatamodeld */,
 				C77A6A59289C059A0095849C /* Preview Content */,
 			);
 			path = Bookworm;
