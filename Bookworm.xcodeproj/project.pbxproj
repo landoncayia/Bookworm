@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C75C035A289EC73100CA9181 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C75C0359289EC73100CA9181 /* DetailView.swift */; };
 		C77A6A54289C05980095849C /* BookwormApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C77A6A53289C05980095849C /* BookwormApp.swift */; };
 		C77A6A56289C05980095849C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C77A6A55289C05980095849C /* ContentView.swift */; };
 		C77A6A58289C059A0095849C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C77A6A57289C059A0095849C /* Assets.xcassets */; };
@@ -21,6 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C75C0359289EC73100CA9181 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 		C77A6A50289C05980095849C /* Bookworm.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Bookworm.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C77A6A53289C05980095849C /* BookwormApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookwormApp.swift; sourceTree = "<group>"; };
 		C77A6A55289C05980095849C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -75,6 +77,7 @@
 				C7F96DAA289D70770077566E /* EmojiRatingView.swift */,
 				C77A6A68289C138F0095849C /* DataController.swift */,
 				C77A6A57289C059A0095849C /* Assets.xcassets */,
+				C75C0359289EC73100CA9181 /* DetailView.swift */,
 				C77A6A59289C059A0095849C /* Preview Content */,
 			);
 			path = Bookworm;
@@ -161,6 +164,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C77A6A56289C05980095849C /* ContentView.swift in Sources */,
+				C75C035A289EC73100CA9181 /* DetailView.swift in Sources */,
 				C77A6A6F289C17B60095849C /* Bookworm.xcdatamodeld in Sources */,
 				C7F96DAB289D70770077566E /* EmojiRatingView.swift in Sources */,
 				C77A6A69289C138F0095849C /* DataController.swift in Sources */,
