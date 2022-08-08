@@ -35,6 +35,10 @@ struct DetailView: View {
                 .font(.title)
                 .foregroundColor(.secondary)
             
+            Text("Read \(book.date ?? Date.now, format:.dateTime.month().day().year())")
+                .font(.subheadline)
+                .padding(.top, 1)
+            
             Text(book.review ?? "No review")
                 .padding()
             
